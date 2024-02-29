@@ -3788,6 +3788,7 @@ rm -rf __pypackages__ pdm.lock
 rm db.sqlite3
 ```
 
+
 ## Pasta `.venv` criada no projeto
 
 -   Se seu projeto tiver a pasta `.venv`, e não a pasta `__pypackages__`, remova a pasta `.venv`:
